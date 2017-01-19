@@ -1,7 +1,7 @@
 spring_mvc_showcase
 ===================
 
-一个Spring MVC 的例子
+一个Spring MVC 的例子 test
 
 * Thymeleaf 模板引擎
 * Thymeleaf Layout Dialect 模板布局
